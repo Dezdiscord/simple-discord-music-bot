@@ -57,7 +57,7 @@ Follow these steps to get Alanna up and running on your Discord server using Vis
    - Open Visual Studio Code.
    - Clone the bot repository from GitHub (replace `REPO_URL` with the actual repository URL):
      ```bash
-     git clone REPO_URL
+     git clone https://github.com/Dezdiscord/simple-discord-music-bot.git
      cd alanna-bot
      ```
 
